@@ -1,5 +1,5 @@
 # cybersecurity-capstone-coursera
-Coursera Cybersecurity Capstone Project
+Coursera Cybersecurity Capstone - Mailbox Project
 
 # Heroku Link
 https://cybersec-vbcm-cap.herokuapp.com/
